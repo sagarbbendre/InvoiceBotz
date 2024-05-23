@@ -1,0 +1,203 @@
+[
+  {
+    "content": {
+      "InvoiceData": [
+        {
+          "DUInvoiceData": {
+            "Header": [
+              {
+                "FieldName": "InvoiceNumber",
+                "OCRValue": "INV123456",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "InvoiceDate",
+                "OCRValue": "02/29/2024",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "VendorName",
+                "OCRValue": "Conduent",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "VendorAddress",
+                "OCRValue": "123 Park St",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "VendorEmail",
+                "OCRValue": "conduent@mail.com",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "BillingName",
+                "OCRValue": "WonderBotz LLP",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "BillingAddress",
+                "OCRValue": "821 Alexander Rd",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "ShippingDate",
+                "OCRValue": "",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "ShippingAddress",
+                "OCRValue": "",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "CustomerPONumber",
+                "OCRValue": "12345678",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "Vendor VAT Number",
+                "OCRValue": "",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "Tax Amount",
+                "OCRValue": "100.00",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "Total Amount",
+                "OCRValue": "1200.00",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "Payment Terms",
+                "OCRValue": "",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "Net Amount",
+                "OCRValue": "1100.00",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "InvoiceDueDate",
+                "OCRValue": "",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "Discount",
+                "OCRValue": "",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "ShippingCharges",
+                "OCRValue": "",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "PaymentAddress",
+                "OCRValue": "",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "BillingVATNumber",
+                "OCRValue": "",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "BankName",
+                "OCRValue": "",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "BankAddress",
+                "OCRValue": "",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "BankAccountNumber",
+                "OCRValue": "",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "IBAN",
+                "OCRValue": "",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "SWIFTCode",
+                "OCRValue": "",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "BankRoutingNumber",
+                "OCRValue": "",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              },
+              {
+                "FieldName": "TaxRate",
+                "OCRValue": "",
+                "VerifiedValue": "",
+                "Confidence": "",
+                "Verified": ""
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+]

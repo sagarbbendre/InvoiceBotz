@@ -1,0 +1,122 @@
+{
+  "version": "1.0",
+  "resources": [
+    {
+      "resource": "asset",
+      "metadata": {
+        "Value": {
+          "defaultValue": "in_Config(\"Performer_Shut_Down_Status\").ToString",
+          "isExpression": true
+        },
+        "FolderPath": {
+          "isExpression": true
+        }
+      }
+    },
+    {
+      "resource": "queue",
+      "metadata": {
+        "Value": {
+          "defaultValue": "in_Config(\"OrchestratorQueueName\").ToString",
+          "isExpression": true
+        },
+        "FolderPath": {
+          "isExpression": true
+        }
+      }
+    },
+    {
+      "resource": "asset",
+      "metadata": {
+        "Value": {
+          "defaultValue": "WBZ_IB_Performer_Config",
+          "isExpression": false
+        },
+        "FolderPath": {
+          "isExpression": true
+        }
+      }
+    },
+    {
+      "resource": "asset",
+      "metadata": {
+        "Value": {
+          "defaultValue": "WBZ_IB_Performer_ConfigSheetsName",
+          "isExpression": false
+        },
+        "FolderPath": {
+          "isExpression": true
+        }
+      }
+    },
+    {
+      "resource": "asset",
+      "metadata": {
+        "Value": {
+          "defaultValue": "row(\"Asset\").ToString",
+          "isExpression": true
+        },
+        "FolderPath": {
+          "defaultValue": "row(\"OrchestratorAssetFolder\").ToString",
+          "isExpression": true
+        }
+      }
+    },
+    {
+      "resource": "queue",
+      "metadata": {
+        "FolderPath": {
+          "isExpression": true
+        }
+      }
+    },
+    {
+      "resource": "asset",
+      "metadata": {
+        "Value": {
+          "defaultValue": "Config(\"Performer_Shut_Down_Status\").ToString",
+          "isExpression": true
+        },
+        "FolderPath": {
+          "isExpression": true
+        }
+      }
+    },
+    {
+      "resource": "asset",
+      "metadata": {
+        "Value": {
+          "defaultValue": "WBZ_IB_Performer_Config",
+          "isExpression": false
+        },
+        "FolderPath": {
+          "isExpression": true
+        }
+      }
+    },
+    {
+      "resource": "asset",
+      "metadata": {
+        "Value": {
+          "defaultValue": "in_Config(\"Performer_Shut_Down_Counter\").ToString",
+          "isExpression": true
+        },
+        "FolderPath": {
+          "isExpression": true
+        }
+      }
+    },
+    {
+      "resource": "asset",
+      "metadata": {
+        "Value": {
+          "defaultValue": "in_Config(\"Performer_Shut_Down_Status\").ToString",
+          "isExpression": true
+        },
+        "FolderPath": {
+          "isExpression": true
+        }
+      }
+    }
+  ]
+}
